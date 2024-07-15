@@ -12,6 +12,9 @@ This project is a client-server chat application written in Java, featuring a gr
 - **active**: Displays the list of active users.
 - **exit**: Disconnects the client from the server and exits the application.
 
+### Example Render
+![Example Render](assets/chat_usage.gif)
+
 ## Usage
 1. Run the Server
 2. Compile and run the client as many times as needed to add multiple clients. Each instance will create a separate client connected to the same server.
